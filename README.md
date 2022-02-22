@@ -1,4 +1,3 @@
-My first readme
 This repository is the first one to save all projects on introduction to git and github on Holberton Alx SOftware Engineering School. THe tasks included:
 
 0. Create and setup your Git and GitHub account
